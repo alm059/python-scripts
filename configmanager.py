@@ -1,4 +1,4 @@
-# Free to use and distribute with credit to github.com/alm999 or gitlab.com/aleelzomtn
+# Free to use and distribute with credit to github.com/alm999 
 #
 # A simple, but customizable, script to manage configuration files
 # By default, configuration files consist on sections and key/values in those sections, as below
